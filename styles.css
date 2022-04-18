@@ -1,0 +1,24 @@
+h1 {
+	text-align: center;
+	color: aqua;
+	font-weight: bolder;
+}
+
+h4 {
+	font-size: 18;
+	color: darkslateblue;
+}
+
+hr {
+	color: blueviolet;
+}
+
+p {
+	color: red;
+	font-weight: lighter;
+}
+
+body {
+	background-color: aliceblue;
+}
+
